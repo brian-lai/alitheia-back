@@ -40,6 +40,7 @@ group :development, :test do
   # testing rubygems
   gem 'rspec-rails', '~> 3.5'
   gem 'rubocop-rspec'
+  gem 'pry-rails'
 end
 
 group :development do
